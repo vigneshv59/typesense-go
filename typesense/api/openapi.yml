@@ -1360,6 +1360,10 @@ components:
         document:
           type: object
           description: Can be any key-value pair
+        text_match:
+          type: integer
+          format: int64
+          description: Text match score
       example:
         highlights:
           company_name:
