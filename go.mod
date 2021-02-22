@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/deepmap/oapi-codegen v1.5.1
-	github.com/golang/mock v1.4.4
+	github.com/golang/mock v1.5.0
 	github.com/google/uuid v1.2.0
 	github.com/jinzhu/copier v0.1.0
 	github.com/sony/gobreaker v0.4.1
