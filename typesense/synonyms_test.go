@@ -8,8 +8,8 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/jinzhu/copier"
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/typesense/api"
-	"github.com/typesense/typesense-go/typesense/mocks"
+	"github.com/vigneshv59/typesense-go/typesense/api"
+	"github.com/vigneshv59/typesense-go/typesense/mocks"
 )
 
 func createNewSearchSynonymSchema() *api.SearchSynonymSchema {

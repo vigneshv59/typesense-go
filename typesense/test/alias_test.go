@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/typesense/typesense-go/typesense/api"
+	"github.com/vigneshv59/typesense-go/typesense/api"
 )
 
 func TestCollectionAliasRetrieve(t *testing.T) {

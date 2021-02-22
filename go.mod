@@ -10,7 +10,6 @@ require (
 	github.com/sony/gobreaker v0.4.1
 	github.com/stretchr/testify v1.7.0
 	github.com/testcontainers/testcontainers-go v0.9.0
-	github.com/typesense/typesense-go v0.0.0-00010101000000-000000000000
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
+	golang.org/x/sys v0.0.0-20210220050731-9a76102bfb43 // indirect
 )
-
-replace github.com/typesense/typesense-go => github.com/vigneshv59/typesense-go v0.2.1

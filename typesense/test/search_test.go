@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/typesense/typesense-go/typesense/api"
-	"github.com/typesense/typesense-go/typesense/api/pointer"
+	"github.com/vigneshv59/typesense-go/typesense/api"
+	"github.com/vigneshv59/typesense-go/typesense/api/pointer"
 )
 
 func TestCollectionSearch(t *testing.T) {

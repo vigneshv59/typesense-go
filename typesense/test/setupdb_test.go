@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/typesense/typesense-go/typesense"
+	"github.com/vigneshv59/typesense-go/typesense"
 )
 
 func waitHealthyStatus(client *typesense.Client, timeout time.Duration) error {
