@@ -16,4 +16,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
 
-replace github.com/typesense/typesense-go => github.com/vigneshv59/typesense-go v0.2.1
+replace github.com/typesense/typesense-go/typesense => github.com/vigneshv59/typesense-go/typesense v0.2.1
+
+replace github.com/typesense/typesense-go/typesense/api => github.com/vigneshv59/typesense-go/typesense/api v0.2.1
